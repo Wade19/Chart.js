@@ -131,7 +131,11 @@ export const CHART_COLORS = {
   green: 'rgb(75, 192, 192)',
   blue: 'rgb(54, 162, 235)',
   purple: 'rgb(153, 102, 255)',
-  grey: 'rgb(201, 203, 207)'
+  grey: 'rgb(201, 203, 207)',
+  blue_opt: 'rgb(22, 79, 148)',
+  blue_opt2: 'rgb(0, 151, 214)',
+  blue_opt3: 'rgb(82, 183, 215)',
+  blue_opt4: 'rgb(0, 43, 73)',
 };
 
 const NAMED_COLORS = [
